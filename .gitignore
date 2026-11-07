@@ -1,0 +1,10 @@
+# Download binaries belong in GitHub Releases, not repository history.
+*.zip
+*.exe
+*.asar
+*.sqlite*
+*.db
+*.key
+.env*
+local-data/
+outputs/
